@@ -4,10 +4,10 @@ This is a test repository for the course FLASK REST APIS Jose Salvatierra
 
 ## Installation
 
-"""
+'''
 pip install Flask
 python app.py
-"""
+'''
 
 ## Implementation
 
